@@ -25,4 +25,5 @@ It includes:
 
 	jupyter notebook notebooks/transaction_forecasting.ipynb
 
- 3. Launch thee reamlit app 
+ 3. Launch the streamlit app 
+    streamlit run app/app.py 
