@@ -1,0 +1,9 @@
+streamlit 
+prophet 
+matplotlib 
+pandas
+
+
+#pip install --upgrade streamlit
+#pip install pandas==2.1.4 typing_extensions==4.12.2
+#pip install altair==5.2.0
