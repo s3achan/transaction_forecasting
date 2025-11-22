@@ -1,6 +1,6 @@
 
 
-# FX Gain/Loss Forecasting & Transaction Profitability
+# Revenue Forecasting & Transaction Profitability
 
 ## Overview
 This project forecasts FX volatility and corridor transaction profitability using Prophet models.
@@ -26,4 +26,6 @@ It includes:
 	jupyter notebook notebooks/transaction_forecasting.ipynb
 
  3. Launch the streamlit app 
-    streamlit run app/app.py 
+    streamlit run app/app.py
+
+	s3achan-txnforecasting.streamlit.com 
